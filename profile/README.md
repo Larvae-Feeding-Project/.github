@@ -1,8 +1,8 @@
-# 💡 Project Title
-Use this template to describe and document your engineering project.
-
+# 💡 Project ARIS: Automated Rearing Intelligent Sensing
+Project ARIS is an autonomous robotic system that feeds bumblebee larvae. 
+The project, and this readme is not final! Every repo has its own readme with more specific information.
 <!-- cool project cover image -->
-![Project Cover Image](/media/project-cover-img.jpg)
+![Project Cover Image](/media/chosenlogo_cropped.png)
 
 <!-- table of content -->
 ## Table of Contents
@@ -18,11 +18,11 @@ Use this template to describe and document your engineering project.
 
 ## 👥 The Team 
 **Team Members**
-- [Member 1](name@emial.com)
-- [Member 2](name@emial.com)
+- [Nitai Gildor](nitaigildor@gmail.com)
+- [Asaf Shasha](name@emial.com)
 
 **Supervisor**
-- [Supervisor](wwww.link_to_lab.com)
+- [Daniella Har Shalom](wwww.link_to_lab.com)
 
 
 ## 📚 Project Description
