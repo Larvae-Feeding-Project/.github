@@ -1,5 +1,5 @@
 # 💡 Project ARIS: Automated Rearing Intelligent Sensing
-Project ARIS is an autonomous robotic system that feeds bumblebee larvae. 
+Inspired by Aristeus, the ancient Greek god of beekeeping, ARIS (Automated Rearing with Intelligent Sensing) bridges traditional hive care with laboratory automation. The system leverages advanced robotics and computer vision to replace labor-intensive manual rearing, delivering the precision and consistency required for advanced research on bumblebee caste differentiation. 
 The project, and this readme not final! Every repo has its own readme with more specific information.
 <!-- cool project cover image -->
 ![Project Cover Image](/media/chosenlogo_cropped.png)
